@@ -6,10 +6,6 @@
 
 **FashionGAN** implements a Generative Adversarial Network (GAN) to synthesize realistic images of clothing items based on the Fashion-MNIST dataset. A convolutional neural network-based **generator** creates 28×28 grayscale images resembling fashion items, while a **discriminator** learns to differentiate real from generated images.
 
-<p align="center">
-  <img src="samples/epoch_50.png" alt="Sample output" width="300"/>
-</p>
-
 ---
 
 ## 🗂 Dataset
